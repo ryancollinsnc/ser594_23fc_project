@@ -24,6 +24,6 @@ Background Knowledge:
 2. "Real Estate pricing with Machine Learning & non-traditional data sources" - https://tryolabs.com/blog/2021/06/25/real-estate-pricing-with-machine-learning--non-traditional-data-sources
 3. "Statistics and Data Analysis for Financial Engineering" by David Ruppert - https://ethz.ch/content/dam/ethz/special-interest/math/statistics/sfs/Education/Advanced%20Studies%20in%20Applied%20Statistics/course-material-1921/FinancialData/2710528_1_ruppert.pdf
 
-Related Work: TODO
+Related Work: 
 1. A Comparative Study on House Price Prediction using Machine Learning - https://www.irjet.net/archives/V9/i11/IRJET-V9I11163.pdf
 2. "Applying Data Science to Real Estate Market Analysis: Opportunities and Challenges" - https://www.researchgate.net/publication/366701577_House_price_prediction_modeling_using_machine_learning_techniques_A_comparative_study
