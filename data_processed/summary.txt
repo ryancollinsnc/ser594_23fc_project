@@ -1,0 +1,22 @@
+
+Feature: Value
+Min: 3400.386357053731
+Max: 16844312.708684005
+Median: 220035.72351282107
+----------------------------------------
+Feature: SizeRank
+Min: 0
+Max: 27095
+Median: 9595.0
+----------------------------------------
+Feature: RegionID
+Min: 3324
+Max: 832002
+Median: 394792.0
+----------------------------------------
+Qualitative Feature: StateName
+Number of Categories: 51
+Most Frequent Category:
+TX    777164
+Least Frequent Category:
+HI    3806

@@ -1,0 +1,6 @@
+Correlation between Value and Value: 1.00
+Correlation between SizeRank and Value: 0.05
+Correlation between SizeRank and SizeRank: 1.00
+Correlation between RegionID and Value: 0.02
+Correlation between RegionID and SizeRank: 0.29
+Correlation between RegionID and RegionID: 1.00
