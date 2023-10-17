@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the data from CSV file
-file_path = 'final_zillow_data1.csv'  
+file_path = 'data_processing/final_zillow_data.csv'  
 df = pd.read_csv(file_path)
 
 # Selected quantitative features
