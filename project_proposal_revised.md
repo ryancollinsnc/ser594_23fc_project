@@ -16,6 +16,23 @@ Description:
 1. Can we create a model that uses a collection of well-known characteristics to forecast property values with accuracy?
 2. What are some ways that prospective house buyers may utilize this model to make wise choices?
 
+Research Objectives:
+
+1. RO1: To describe the trends within the housing market data web scraped from Zillow.
+This objective focuses on exploratory data analysis and visualization to uncover patterns, trends, and anomalies in the housing market data.
+2. RO2: To predict the housing prices based on various property attributes using machine learning regression techniques.
+This objective involves applying machine learning models to predict housing prices, providing a quantitative tool for potential home buyers and other stakeholders.
+3. RO3: To defend the model developed in RO2 by evaluating its performance, interpreting its results, and ensuring its reliability and validity.
+This objective ensures the credibility of the predictive model by conducting thorough performance evaluation and validation.
+4. RO4: To evaluate the relationships within the housing market data as implied by the RO2 model, providing insights into the factors influencing housing prices.
+This objective aims to interpret the model results to understand the relationships between different property attributes and housing prices, offering valuable insights into the housing market dynamics.
+5. RO5: To optimize the web scraping process to efficiently collect comprehensive and reliable housing market data from Zillow.
+This objective focuses on refining the data collection process, ensuring the dataset's quality and comprehensiveness.
+6. RO6: To explore advanced machine learning and deep learning techniques to enhance the predictive accuracy of the housing price model.
+7. RO7: To implement and evaluate advanced feature engineering techniques to enhance the predictive performance of the housing price model.
+This objective focuses on exploring and applying sophisticated feature engineering methods to improve the model's ability to capture complex patterns in the data.
+
+
 Intellectual Merit: 
 
 *This research sits at the crossroads of data science, machine learning, and real estate market analysis. The project attempts to untangle the complicated dynamics of the housing market using modern machine learning algorithms and data analytic techniques, offering insights into the elements that influence home prices. This project's prediction model will not only add to academic knowledge of real estate market patterns but will also provide practical solutions and tools for diverse stakeholders. Furthermore, the initiative offers up new opportunities for future research, such as using deep learning techniques to improve forecast accuracy and exploring additional data sources to extend the dataset.* By using data science to develop a platform that may assist stakeholders (including house purchasers, real estate agents, and policy makers) in making data-driven decisions, it aims to increase knowledge in the real estate industry. The research might be expanded for graduate students to include deep learning analytics for predicting market patterns, adding new information to the subject.
@@ -44,20 +61,3 @@ Related Work:
 [5] F. Author and S. Author, "Title of Preprint," arXiv preprint arXiv:2210.06261, 2022.- https://arxiv.org/abs/2210.06261
 
 [6] Q. Truong, M. Nguyen, H. Dang, and B. Mei, "Housing Price Prediction via Improved Machine Learning Techniques," Proc. Comput. Sci., vol. 174, pp. 433-442, 2020, doi: 10.1016/j.procs.2020.06.111.- https://www.sciencedirect.com/science/article/pii/S1877050920316318
-
-
-Research Objectives:
-
-1. RO1: To describe the trends within the housing market data web scraped from Zillow.
-This objective focuses on exploratory data analysis and visualization to uncover patterns, trends, and anomalies in the housing market data.
-2. RO2: To predict the housing prices based on various property attributes using machine learning regression techniques.
-This objective involves applying machine learning models to predict housing prices, providing a quantitative tool for potential home buyers and other stakeholders.
-3. RO3: To defend the model developed in RO2 by evaluating its performance, interpreting its results, and ensuring its reliability and validity.
-This objective ensures the credibility of the predictive model by conducting thorough performance evaluation and validation.
-4. RO4: To evaluate the relationships within the housing market data as implied by the RO2 model, providing insights into the factors influencing housing prices.
-This objective aims to interpret the model results to understand the relationships between different property attributes and housing prices, offering valuable insights into the housing market dynamics.
-5. RO5: To optimize the web scraping process to efficiently collect comprehensive and reliable housing market data from Zillow.
-This objective focuses on refining the data collection process, ensuring the dataset's quality and comprehensiveness.
-6. RO6: To explore advanced machine learning and deep learning techniques to enhance the predictive accuracy of the housing price model.
-7. RO7: To implement and evaluate advanced feature engineering techniques to enhance the predictive performance of the housing price model.
-This objective focuses on exploring and applying sophisticated feature engineering methods to improve the model's ability to capture complex patterns in the data.
