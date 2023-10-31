@@ -30,15 +30,24 @@ Background Knowledge:
 3. "Statistics and Data Analysis for Financial Engineering" by David Ruppert - https://ethz.ch/content/dam/ethz/special-interest/math/statistics/sfs/Education/Advanced%20Studies%20in%20Applied%20Statistics/course-material-1921/FinancialData/2710528_1_ruppert.pdf
 4. *"Case Study: Housing Price Prediction on Zillow’s Data" by Vidhi Chugh* - https://vidhi-chugh.medium.com/case-study-housing-price-prediction-on-zillows-data-9795294765a8 
 
+
 Related Work: 
+
 [1] V. Chugh, "Predictive Analysis of Housing Prices Using Machine Learning," Int. Res. J. Eng. Technol. (IRJET), vol. 9, no. 11, pp. 163-167, 2023. - https://www.irjet.net/archives/V9/i11/IRJET-V9I11163.pdf
+
 [2] A. Yağmur, M. Kayakuş, and M. Terzioğlu, "House price prediction modeling using machine learning techniques: A comparative study," IEEE Trans. Eng. Manage., vol. 81, no. 1, pp. 1-17, 2022, doi: 10.36253/aestim-13703. - https://www.researchgate.net/publication/366701577_House_price_prediction_modeling_using_machine_learning_techniques_A_comparative_study
+
 [3] X. Li, "Prediction and Analysis of Housing Price Based on the Generalized Linear Regression Model," Comput. Intell. Neurosci., vol. 2022, p. 3590224, 2022, doi: 10.1155/2022/3590224.- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9536958/
+
 [4] C. R. Madhuri, G. Anuradha and M. V. Pujitha, "House Price Prediction Using Regression Techniques: A Comparative Study," 2019 International Conference on Smart Structures and Systems (ICSSS), Chennai, India, 2019, pp. 1-5, doi: 10.1109/ICSSS.2019.8882834.- https://ieeexplore.ieee.org/document/8882834 
+
 [5] F. Author and S. Author, "Title of Preprint," arXiv preprint arXiv:2210.06261, 2022.- https://arxiv.org/abs/2210.06261
+
 [6] Q. Truong, M. Nguyen, H. Dang, and B. Mei, "Housing Price Prediction via Improved Machine Learning Techniques," Proc. Comput. Sci., vol. 174, pp. 433-442, 2020, doi: 10.1016/j.procs.2020.06.111.- https://www.sciencedirect.com/science/article/pii/S1877050920316318
 
+
 Research Objectives:
+
 1. RO1: To describe the trends within the housing market data web scraped from Zillow.
 This objective focuses on exploratory data analysis and visualization to uncover patterns, trends, and anomalies in the housing market data.
 2. RO2: To predict the housing prices based on various property attributes using machine learning regression techniques.
