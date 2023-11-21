@@ -1,4 +1,5 @@
 import pandas as pd
+from sklearn.model_selection import train_test_split
 
 # Load the data
 df = pd.read_csv('data_original/zillow_data.csv')
@@ -56,6 +57,23 @@ def calculate_md5_hash(file_path):
         while chunk := file.read(4096):
             md5_hash.update(chunk)
     return md5_hash.hexdigest()
+
+# Load the dataset
+file_path = 'data_processing/final_zillow_data.csv'
+data = pd.read_csv(file_path)
+
+# Specify the stratification column
+stratify_col = 'StateName'  # Replace with your stratification column
+
+
+# Perform stratified sampling to reduce the size of the dataset
+# Adjust 'test_size' as needed to control the size of the reduced dataset
+data_reduced, _ = train_test_split(data, test_size=0.9, stratify=data[stratify_col], random_state=42)
+
+# Display the size of the original and the reduced datasets
+print(f"Original Dataset Size: {data.shape[0]}")
+print(f"Reduced Dataset Size: {data_reduced.shape[0]}")
+data_reduced.to_csv('data_processed/final_zillow_data_small.csv', index=False)
 
 # Replace with the actual file path
 file_path = 'data_processing/final_zillow_data.csv'

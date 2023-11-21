@@ -1,4 +1,4 @@
-#### SERX94: Exploratory Data Munging and Visualization
+#### SER594: Exploratory Data Munging and Visualization
 #### Title: Predictive Analysis of Housing Prices Using Machine Learning 
 #### Author: Ryan Collins
 #### Date: 10/16/23
